@@ -32,4 +32,18 @@
 .card{
     border: none;
     box-shadow: 5px 5px 10px lightgray;
+    border-radius: 5px;
+}
+#shoes{
+    margin-bottom: 30px;
+}
+.card-footer{
+    border: none
+    
+}
+#Backpacks{
+    margin-bottom: 80px;
+}
+#Subscribe{
+    height:300px;
 }
