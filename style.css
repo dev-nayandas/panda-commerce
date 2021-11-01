@@ -7,3 +7,15 @@
 .price{
     color: purple;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+}
+.cat1{
+    background-color: chocolate;
+}
+.cat2{
+    background-color: crimson;
+}
+.cat3{
+    background-color: darkblue;
+}
